@@ -109,6 +109,13 @@
 
   
   <url>
+    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
+    <lastmod>2021-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://nlasagna.github.io/tags/on-campus/</loc>
     <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
@@ -123,14 +130,14 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/close-door-ly-making-car/</loc>
+    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
     <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
+    <loc>http://nlasagna.github.io/tags/close-door-ly-making-car/</loc>
     <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -165,7 +172,7 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
+    <loc>http://nlasagna.github.io/tags/translation/</loc>
     <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -180,13 +187,6 @@
   
   <url>
     <loc>http://nlasagna.github.io/tags/in-English/</loc>
-    <lastmod>2021-11-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/translation/</loc>
     <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

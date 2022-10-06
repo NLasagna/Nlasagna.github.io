@@ -193,13 +193,6 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/translation/</loc>
-    <lastmod>2022-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://nlasagna.github.io/tags/hk/</loc>
     <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
@@ -208,6 +201,13 @@
   
   <url>
     <loc>http://nlasagna.github.io/tags/in-English/</loc>
+    <lastmod>2022-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/translation/</loc>
     <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

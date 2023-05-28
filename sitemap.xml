@@ -137,6 +137,34 @@
 
   
   <url>
+    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/coffee/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/travel-notes/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/review/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://nlasagna.github.io/tags/close-door-ly-making-car/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -151,27 +179,6 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/travel-notes/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://nlasagna.github.io/tags/game/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -179,21 +186,7 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/coffee/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/review/</loc>
-    <lastmod>2023-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/on-campus/</loc>
+    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -215,6 +208,13 @@
   
   <url>
     <loc>http://nlasagna.github.io/tags/translation/</loc>
+    <lastmod>2023-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/on-campus/</loc>
     <lastmod>2023-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

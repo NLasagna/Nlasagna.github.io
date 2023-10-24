@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nlasagna.github.io/2022/03/re-review-13mini-with-peri/</loc>
+    
+    <lastmod>2023-10-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://nlasagna.github.io/2021/10/points-of-mini-13-iPhone/</loc>
     
     <lastmod>2023-10-24</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://nlasagna.github.io/about/index.html</loc>
     
     <lastmod>2022-09-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/2022/03/re-review-13mini-with-peri/</loc>
-    
-    <lastmod>2022-03-30</lastmod>
     
   </url>
   
@@ -158,14 +158,7 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
-    <lastmod>2023-10-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://nlasagna.github.io/tags/close-door-ly-making-car/</loc>
+    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -193,7 +186,7 @@
   </url>
   
   <url>
-    <loc>http://nlasagna.github.io/tags/tutorial/</loc>
+    <loc>http://nlasagna.github.io/tags/close-door-ly-making-car/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -201,6 +194,13 @@
   
   <url>
     <loc>http://nlasagna.github.io/tags/game/</loc>
+    <lastmod>2023-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://nlasagna.github.io/tags/dreamland/</loc>
     <lastmod>2023-10-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
